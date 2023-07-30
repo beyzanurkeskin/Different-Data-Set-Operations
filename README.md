@@ -1,44 +1,13 @@
 ![This is an image](4.png)
+
+What are the contents of these projects?
 ---
-I tried to analyze a dataset containing 50 columns in forgery detection, which is the graduation project of Kodluyouruz.
+I implemented a full data science project by examining the titanic dataset and building the model.
 -
-What was done ?
-
-- I deleted the missing columns
-- I found the columns that are highly correlated
-- I applied target encoder
----
-I tried to analyze a dataset containing 50 columns in forgery detection, which is the graduation project of Kodluyouruz.
+I reviewed the dataset of a past competition found on kaggle. I prepared an intensive analysis section.
 -
-What was done ?
-
-- I deleted the missing columns
-- I found the columns that are highly correlated
-- I applied target encoder
-
----
-I tried to analyze a dataset containing 50 columns in forgery detection, which is the graduation project of Kodluyouruz.
+I made a starter project with iris dataset
 -
-What was done ?
-
-- I deleted the missing columns
-- I found the columns that are highly correlated
-- I applied target encoder
-
----
-I tried to analyze a dataset containing 50 columns in forgery detection, which is the graduation project of Kodluyouruz.
+I made the dataset arrangements needed for my assignment.
 -
-What was done ?
-
-- I deleted the missing columns
-- I found the columns that are highly correlated
-- I applied target encoder
-
----
-I tried to analyze a dataset containing 50 columns in forgery detection, which is the graduation project of Kodluyouruz.
--
-What was done ?
-
-- I deleted the missing columns
-- I found the columns that are highly correlated
-- I applied target encoder
+I made a project using a simple visualization and machine learning model.
